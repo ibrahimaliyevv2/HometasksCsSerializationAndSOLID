@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/bin/Debug/netcoreapp3.1/SerializationTry.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/bin/Debug/netcoreapp3.1/SerializationTry.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/bin/Debug/netcoreapp3.1/SerializationTry.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/bin/Debug/netcoreapp3.1/SerializationTry.dll
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/bin/Debug/netcoreapp3.1/SerializationTry.pdb
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.dll
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.pdb
+/Users/ibrahimaliyevv/Projects/HometasksSerializationAndSOLID/SerializationTry/SerializationTry/obj/Debug/netcoreapp3.1/SerializationTry.genruntimeconfig.cache

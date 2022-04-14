@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{76833177-A594-4212-9F6F-2BB053A51035}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SerializationTry/Program.cs">
+    <Files>
+      <File FileName="SerializationTry/Program.cs" Line="81" Column="83" />
+      <File FileName="SerializationTry/User.cs" Line="4" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SerializationTry" expanded="True">
+            <Node name="SerializationTry" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SerializationTry PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
